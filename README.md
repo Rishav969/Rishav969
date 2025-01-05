@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi, I'm Rohit Raj</h1>
+<h3 align="center">A Tech enthusiast,ISE student at BMSIT</h3>
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
