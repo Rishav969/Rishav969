@@ -44,11 +44,11 @@
 </p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishav969&theme=buefy&show_icons=false&locale=en&layout=compact" alt="Rishav969" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishav969&theme=buefy&show_icons=true" alt="Rishav969's Github Stats" />
 </a>
 
