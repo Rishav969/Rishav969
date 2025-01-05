@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently studying Information Science and Engineering at the BMSIT.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design.\
 ✉️ &nbsp;You can shoot me an email at f8@bmsit.in ! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1NBr1ymQyjYWD7PxHX2UwYfi2ys3oVzjy/view?usp=drivesdk) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/10h6vfUjqrnUqlxVHKmiE7LYJlTgfD7bX/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
